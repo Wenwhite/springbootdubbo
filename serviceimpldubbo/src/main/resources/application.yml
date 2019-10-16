@@ -16,7 +16,7 @@ dubbo:
     status: server
   registry:
     id: my-reg
-    address: zookeeper://139.159.232.41:2181
+    address: zookeeper://***.***.***.**:****
 endpoints:
   dubbo:
     enabled: true
